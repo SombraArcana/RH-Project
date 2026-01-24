@@ -8,3 +8,7 @@ um código simples de cálculo de folha de pagamento de acordo com regulamentaç
     18/01/2026: criação e preparação do repositório e das ferramentas usadas do projeto
 
     19/01/2026: projetando e planejando próximos passos do software segundo cálculos relacionados a RH e definindo
+
+    20/01 -- 23/01: Ausência
+
+    24/01: criação de classe Calcular benefícios , preparação para utilização de classes na operação do código

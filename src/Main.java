@@ -2,7 +2,7 @@
 
 public class Main {
     public static void main(String[] args) {
-        GUI gui = new GUI(); // a interface já se exibe sozinha
+        GUI gui = new GUI(); 
         // gui.labelContador.setText("text");
     }
 }
