@@ -12,3 +12,7 @@ um código simples de cálculo de folha de pagamento de acordo com regulamentaç
     20/01 -- 23/01: Ausência
 
     24/01: criação de classe Calcular benefícios , preparação para utilização de classes na operação do código
+
+    25/01 -- 27/01: Ausência
+
+    28/01: Criação da classe Funcionário
